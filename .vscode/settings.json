@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "proto1_escs": "c",
+        "cmath": "cpp"
+    }
+}
